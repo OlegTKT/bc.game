@@ -1,11 +1,13 @@
-A brief explanation of the Labouchère strategy
+### A brief explanation of the Labouchère strategy
  
 
-Total Amount you want to win(may change actual amount with the payout)
-For example 1BTC
-No of splits
-For example 10
-Steps: 
+ - Total Amount you want to win(may change actual amount with the payout)
+    * For example 1BTC
+ - No of splits
+    * For example 10
+
+
+## Steps: 
 
 1) Divide the total amount into the number of splits
 
@@ -29,8 +31,8 @@ Note: there are many varieties of Labouchère strategy, here I explained the equ
 
  
 
-BC.GAME
-If you don't have an account create one here. (My referral link) :) 
+### BC.GAME
+If you don't have an account create one [here](https://bc.game/i-2e5k2gdj-n/). (My referral link) :) 
 
 There are few games you can play by adding scripts. 
 
@@ -40,31 +42,31 @@ Step 2: Identify the game you want to play with the script:
 
 For example:
 
-hash dice
-crash
+ - [hash dice](https://bc.game/crash)
+ - [crash](https://bc.game/crash)
 The next steps will be almost the same so I will be giving the example of hash dice.
 
 Step 3:  Click Advanced
 
-advanced
+![](https://cdn.publish0x.com/prod/fs/cachedimages/1631971913-9a210ccd89e268993ad78f9d0019b8d569aff8399e6be674aa41690cf4030524.webp)
 
 Step 4: Click Add Script
 
-21cc0e69ea432730115067c6871c68efc03993d7a1cff62aa7b9a0c7b1faaacc.png
+![](https://cdn.publish0x.com/prod/fs/cachedimages/2228636055-21cc0e69ea432730115067c6871c68efc03993d7a1cff62aa7b9a0c7b1faaacc.webp)
 
 Step 5: Give the script a name( I gave Labouchère)
 
 Open the downloaded Labouchere.js file in a text editor like notepad. Copy the content. Then save.
 
-04912b7d06514c3165e285507c087cbf2534413a3e4d6702b3cf455b1c8d74d5.png
+![](https://cdn.publish0x.com/prod/fs/cachedimages/1619210490-04912b7d06514c3165e285507c087cbf2534413a3e4d6702b3cf455b1c8d74d5.webp)
 
 Step 6:  Click Run
 
-66d2796cc9eadef40b17909e2abe91645d919b1785ec677ef0a96e6446a1ec77.png
+![](https://cdn.publish0x.com/prod/fs/cachedimages/2228636055-66d2796cc9eadef40b17909e2abe91645d919b1785ec677ef0a96e6446a1ec77.webp)
 
 Step 7: 
 
-792605a3355495569fe7c04b8526f0f661b6f64216da718d1232c89a6e834bd1.png
+![](https://cdn.publish0x.com/prod/fs/cachedimages/839433040-792605a3355495569fe7c04b8526f0f661b6f64216da718d1232c89a6e834bd1.webp)
 
 Bet profit - The amount which is going to split for the Labouchère strategy.
 Note that some of the coins have a minimum amount of play with. For example, if a coin has a minimum amount of 1 and the split is 10. The amount you need to enter is 10 for the play to start is.
@@ -77,18 +79,17 @@ Select Run Script and confirm it.
 Enjoy the rewards :)
 
 Sample Run:
-b5b12980d809ddc0138343afbbed15178d2cd363b5e05c9bfd0e404db36f84ec.png
+![](https://cdn.publish0x.com/prod/fs/cachedimages/4156028525-b5b12980d809ddc0138343afbbed15178d2cd363b5e05c9bfd0e404db36f84ec.webp)
 
  
-Warning:
+### Warning:
 Note no strategy is 100% successful. The house always has the edge :) 
 
-Gamble at your own risk. Try the script with a small amount first to get familiar with. 
+**Gamble at your own risk. Try the script with a small amount first to get familiar with.**
 
  
-Tips to the auther:
+## Tips to the auther:
  
-
 BTC : 19SNroELouycxUmfrBfA8w8x168RCCk8XU
 
 ETH: 0xe5edc5aaf2dde14dd368760dd7f0bc01685523dc
@@ -99,8 +100,8 @@ ADA: DdzFFzCqrhtCt28Eo8MSVKNZNfDtW64TmDF9jpq1MSAjdCtmNmVBNXyiTkr9A9FB7MboWYihcyC
 
 Dash: XgPA5iewp1JVjUwg67E9uGEenjiFpZi23Y
 
-BNB:bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23 Memo: 102502275
+BNB: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23 Memo: 102502275
 
  
 
-BeGambleAware
+[BeGambleAware](https://www.begambleaware.org/)
