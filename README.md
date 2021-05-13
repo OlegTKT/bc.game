@@ -81,6 +81,9 @@ Enjoy the rewards :)
 Sample Run:
 ![](https://cdn.publish0x.com/prod/fs/cachedimages/4156028525-b5b12980d809ddc0138343afbbed15178d2cd363b5e05c9bfd0e404db36f84ec.webp)
 
+## Sugessions and requests 
+Please create an issue :) 
+
  
 ### Warning:
 Note no strategy is 100% successful. The house always has the edge :) 
