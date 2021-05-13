@@ -86,12 +86,12 @@ Please create an issue :)
 
  
 ### Warning:
-Note no strategy is 100% successful. The house always has the edge :) 
+Note: no strategy is 100% successful. The house always has the edge :) 
 
-**Gamble at your own risk. Try the script with a small amount first to get familiar with.**
+**Gamble at your own risk. Try the script with a small amount first to get familiar with it.**
 
  
-## Tips to the auther:
+## Tips to the author:
  
 BTC : 19SNroELouycxUmfrBfA8w8x168RCCk8XU
 
