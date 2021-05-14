@@ -68,17 +68,22 @@ Step 7:
 
 ![](https://cdn.publish0x.com/prod/fs/cachedimages/839433040-792605a3355495569fe7c04b8526f0f661b6f64216da718d1232c89a6e834bd1.webp)
 
-Bet profit - The amount which is going to split for the Labouchère strategy.
-Note that some of the coins have a minimum amount of play with. For example, if a coin has a minimum amount of 1 and the split is 10. The amount you need to enter is 10 for the play to start is.
-Number of Splits how many splits you need.
-Maximum number of Cycles
+Bet profit - The amount which is going to split for the Labouchère strategy.  
+
+Note that some of the coins have a minimum amount of play with. For example, if a coin has a minimum amount of 1 and the split is 10. The amount you need to enter is 10 for the play to start is.  
+
+Number of Splits how many splits you need.  
+
+Maximum number of Cycles  
 it is common to have a streak of losing, which ends up having a very long number of splits at the end.  For example, if you have the value 200, after 200 games you have not finished the game it will restart with the bet profit amount. 
-Payout: the Payout % of the game. 
-Select Run Script and confirm it. 
 
-Enjoy the rewards :)
+Payout: the Payout % of the game.   
 
-Sample Run:
+Select Run Script and confirm it.  
+
+Enjoy the rewards :)  
+
+## Sample Run:
 ![](https://cdn.publish0x.com/prod/fs/cachedimages/4156028525-b5b12980d809ddc0138343afbbed15178d2cd363b5e05c9bfd0e404db36f84ec.webp)
 
 ## Sugessions and requests 
